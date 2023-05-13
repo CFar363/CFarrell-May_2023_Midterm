@@ -1,0 +1,52 @@
+/*css reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+
+
+.conent{
+    color:#789922;
+    background:#FED7B0;
+
+}
+
+.box{
+    background-color: #5a000f;
+    color: #fff;
+    width: 10%;
+    margin: 10px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 75px;
+    
+}
+
+.crung{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: #789922;
+}
+.crungbox{
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+table, th, td {
+    border: 10px solid #5a000f ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-position: center;
+    font-family: 'Courier New', Courier, monospace
+  }
+
+  body {
+    font-family: 'Courier New', Courier, monospace
+  }
